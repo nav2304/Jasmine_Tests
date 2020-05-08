@@ -1,1 +1,2 @@
-This is sample text-Line 1 and test
+This is sample text-Line 1
+This is sample text-Line 2
